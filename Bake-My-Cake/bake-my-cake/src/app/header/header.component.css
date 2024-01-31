@@ -1,0 +1,49 @@
+h1 {
+    padding-top: 25px;
+    /* padding-left: 50px; */
+    padding-bottom: 5px;
+    font-weight: bold;
+    color: #FEF2F4;
+    letter-spacing: 1px;
+}
+
+div {
+    background-color: #D14D72;
+    display: flex;
+}
+
+#leftspace {
+    margin-left: 1060px;
+}
+
+mat-icon {
+    margin-top: 19px;
+    cursor: pointer;
+    color: #FEF2F4;
+}
+
+.icon {
+    font-size: 30px;
+    padding: 5px;
+}
+
+.icon1 {
+    padding-top: 7px;
+    padding-left: 30px;
+}
+
+p {
+    padding-top: 30px;
+    color: #FEF2F4;
+}
+
+#spacebetween {
+    margin-right: 40px;
+}
+
+img {
+    padding: 15px;
+    height: 50px;
+    width: 50px;
+    border-radius: 40%;
+}

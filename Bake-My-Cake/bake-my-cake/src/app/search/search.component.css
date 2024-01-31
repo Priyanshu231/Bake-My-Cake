@@ -1,0 +1,29 @@
+#forflex {
+    display: flex;
+}
+
+div {
+    padding-top: 27px;
+    padding-left: 50px;
+}
+
+input {
+    border-radius: 5px;
+    height: 25px;
+}
+
+mat-form-field {
+    padding-right: 6px;
+}
+
+button {
+    cursor: pointer;
+    height: 55px;
+    width: 55px;
+    background-color: #FCC8D1;
+    border: none;
+}
+
+mat-icon {
+    margin: -3px;
+}
